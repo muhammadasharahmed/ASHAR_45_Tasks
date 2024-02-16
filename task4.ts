@@ -1,0 +1,1 @@
+console.log("Albert Einstein Once Said :\"Try Not To Become A Man Of Success, But Rather Try To Become A Man Of Value\" ");
